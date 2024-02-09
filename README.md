@@ -11,6 +11,6 @@ Para instalar as dependências do projeto, execute o comando abaixo:
 
 ## Utilização
 
-Para utilizar o projeto, execute o arquivo `downloader.py` ou abra a pasta downloader e execute o .exe downloader.exe.
+Para utilizar o projeto, execute o arquivo `downloader.py`.
  
 
